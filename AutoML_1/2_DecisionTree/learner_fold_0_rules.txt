@@ -1,0 +1,16 @@
+if (Total Charges <= 345005.578) and (Total Charges <= 84234.844) and (Total Charges <= 34062.57) then response: 6253.005 | based on 11,375 samples
+
+if (Total Charges <= 345005.578) and (Total Charges <= 84234.844) and (Total Charges > 34062.57) then response: 17650.223 | based on 4,326 samples
+
+if (Total Charges <= 345005.578) and (Total Charges > 84234.844) and (Total Charges <= 155310.984) then response: 36203.982 | based on 1,281 samples
+
+if (Total Charges <= 345005.578) and (Total Charges > 84234.844) and (Total Charges > 155310.984) then response: 67464.632 | based on 550 samples
+
+if (Total Charges > 345005.578) and (Total Charges <= 1015498.469) and (Total Charges <= 616519.469) then response: 142159.241 | based on 114 samples
+
+if (Total Charges > 345005.578) and (Total Charges <= 1015498.469) and (Total Charges > 616519.469) then response: 228360.353 | based on 22 samples
+
+if (Total Charges > 345005.578) and (Total Charges > 1015498.469) and (Total Charges <= 4346244.25) then response: 470242.196 | based on 18 samples
+
+if (Total Charges > 345005.578) and (Total Charges > 1015498.469) and (Total Charges > 4346244.25) then response: 1591540.6 | based on 1 samples
+
